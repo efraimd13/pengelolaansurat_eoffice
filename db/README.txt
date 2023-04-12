@@ -1,0 +1,1 @@
+pake database "app_ps.sql"
